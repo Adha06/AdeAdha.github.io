@@ -1,0 +1,17 @@
+.konten{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+	padding-top: 30px;
+	position: left;
+
+}
+.konten img{
+	box-shadow: 1px 1px 1px 1px;
+}
+h5{
+	line-height: 1.5em;
+}
+.konten a{
+	padding-top: 20px;
+}

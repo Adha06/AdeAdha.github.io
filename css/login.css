@@ -1,0 +1,14 @@
+form{
+    text-align: center;
+    font-family: square;
+    background-color: #ecefec;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 1px green;
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url('../img/login.jpg');
+    background-size: algerian;
+    padding-top: 100px;
+}

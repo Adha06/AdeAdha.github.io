@@ -1,0 +1,119 @@
+.home{
+	min-height: 610px;
+}
+.kemampuan{
+	font-family: square;
+}
+.desc{
+	font-family: square;
+	min-height: 400px;
+	margin: auto;
+	background-size: 1350px 400px;
+	background-color:#7b1bff;
+}
+.tambah{
+	background-color: #7b1bff;
+	min-height: 200px;
+	margin: auto;
+}
+.foto{
+	font-family: square;
+	background-repeat: no-repeat;
+	min-height: 300px;
+	background-position: cover;
+	color: #7b1bff;
+}
+.footer{
+	background-color: #7b1bff;
+}
+.card-text{
+	font-family: cursive;
+	font-size: 15px;
+}
+.card{
+	background-color: #7b1bff;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.kemampuan{
+	min-height: 700px;
+}
+.daftar{
+	min-height: 200px;
+	background-position: top;
+	background-size: 1350px 400px;
+	background-repeat: no-repeat;
+	font-family: square;
+}
+.card-text{
+	font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.admin{
+	background-size: cover;
+	background-size: 1350px 500px;
+	background-position: bottom;
+}
+.footer{
+	font-family: square;
+	font-size: 12pt !important;
+}
+.nav-link{
+	text-transform: uppercase;
+	margin-right: 5px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-link:hover::after{
+	content: '';
+	display: block;
+	border-bottom: 3px solid #ffffff;
+	width: 50%;
+	margin: auto;
+	padding-bottom: 5px;
+	margin-bottom: -8px;
+}
+.anggota img{
+	height: 60px;
+
+}
+.masuk{
+	border-radius: 40px;
+}
+p img{
+	height:30px;
+
+}
+a img{
+	position: top;
+	margin : auto;
+	height: 40px;
+	position: fixed-top;
+}
+h6{
+	font-family: square;
+}
+.outdoor img{
+	height: 400px;
+	opacity: 0.5;
+}
+.WA{
+	size: 60px
+	font-family: square;
+	font-size: 25px;
+}
+.home p{
+	font-family: elephant;
+	font-size: 40px;
+	text-shadow: 1px 1px 1px grey;
+}
+.navbar-nav{
+	font-family: square;
+}
+.navbar{
+	background-color: #7b1bff;
+}
+.pengalaman{
+	font-family: square;
+}
+/*Login*/
